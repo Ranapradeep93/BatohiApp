@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927658612081",
+    "project_id": "batohibot",
+    "storage_bucket": "batohibot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927658612081:android:a0454cf2a8eb2dc64f52d0",
+        "android_client_info": {
+          "package_name": "com.batohi.cabbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927658612081-mi0lo5nsdc0vmhelfjpn7qa84rnmri7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6VK52QRCBsJ26EWu2c3XapMpHOWsz4FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927658612081-mi0lo5nsdc0vmhelfjpn7qa84rnmri7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
